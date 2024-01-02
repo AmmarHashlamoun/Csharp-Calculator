@@ -1,0 +1,12 @@
+C:\Users\hashl\source\repos\C# Calculator\bin\Debug\Calculator.exe.config
+C:\Users\hashl\source\repos\C# Calculator\bin\Debug\Calculator.exe
+C:\Users\hashl\source\repos\C# Calculator\bin\Debug\Calculator.pdb
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Einstein Calculator.csproj.AssemblyReference.cache
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Einstein Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Calculator.Calculator3000.resources
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Calculator.MainCalc.resources
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Einstein Calculator.csproj.GenerateResource.cache
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Einstein Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Calculator.exe
+C:\Users\hashl\source\repos\C# Calculator\obj\Debug\Calculator.pdb

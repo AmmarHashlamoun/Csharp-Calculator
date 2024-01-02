@@ -1,12 +1,12 @@
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\bin\Debug\Calculator Gr12 Assignment.exe.config
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\bin\Debug\Calculator Gr12 Assignment.exe
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\bin\Debug\Calculator Gr12 Assignment.pdb
 C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator Gr12 Assignment.csproj.AssemblyReference.cache
 C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator Gr12 Assignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator_Gr12_Assignment.Calculator3000.resources
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator_Gr12_Assignment.Properties.Resources.resources
 C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator Gr12 Assignment.csproj.GenerateResource.cache
 C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator Gr12 Assignment.csproj.CoreCompileInputs.cache
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator Gr12 Assignment.exe
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator Gr12 Assignment.pdb
-C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator_Gr12_Assignment.MainCalc.resources
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\bin\Debug\Calculator.exe.config
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\bin\Debug\Calculator.exe
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\bin\Debug\Calculator.pdb
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator.Calculator3000.resources
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator.MainCalc.resources
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator.exe
+C:\Users\hashl\source\repos\Calculator Gr12 Assignment\obj\Debug\Calculator.pdb

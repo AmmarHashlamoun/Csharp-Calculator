@@ -9,10 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //Ammar Hashlamoun
-//Mr.Mayer
-//March 31st. 2023
+
 //Calculator Assignment
-namespace Calculator_Gr12_Assignment
+namespace Calculator
 {
     public partial class MainCalc : Form
     {

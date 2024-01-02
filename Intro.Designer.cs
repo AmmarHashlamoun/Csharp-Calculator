@@ -1,4 +1,4 @@
-﻿namespace Calculator_Gr12_Assignment
+﻿namespace Calculator
 {
     partial class Calculator3000
     {
@@ -101,7 +101,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Calculator_Gr12_Assignment.Properties.Resources.Screenshot__7_;
+            this.BackgroundImage = global::Calculator.Properties.Resources.Screenshot__7_;
             this.ClientSize = new System.Drawing.Size(877, 520);
             this.Controls.Add(this.DropPan);
             this.Controls.Add(this.label2);

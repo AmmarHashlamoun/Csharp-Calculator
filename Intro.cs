@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculator_Gr12_Assignment
+namespace Calculator
 {
     public partial class Calculator3000 : Form
     {

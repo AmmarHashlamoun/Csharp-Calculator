@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5B0DC9AD-DF06-49A3-B448-2B3A43A22B45}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Calculator_Gr12_Assignment</RootNamespace>
-    <AssemblyName>Calculator Gr12 Assignment</AssemblyName>
+    <RootNamespace>Calculator</RootNamespace>
+    <AssemblyName>Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

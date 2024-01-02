@@ -1,4 +1,4 @@
-﻿namespace Calculator_Gr12_Assignment
+﻿namespace Calculator
 {
     partial class MainCalc
     {
@@ -259,7 +259,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Calculator_Gr12_Assignment.Properties.Resources.Screenshot__9_;
+            this.BackgroundImage = global::Calculator.Properties.Resources.Screenshot__9_;
             this.ClientSize = new System.Drawing.Size(397, 402);
             this.Controls.Add(this.AnswerBox);
             this.Controls.Add(this.subtract);
